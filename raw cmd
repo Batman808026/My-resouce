@@ -1,0 +1,2 @@
+wfuzz -c -w /usr/share/seclists/Discovery/Web-Content/raft-medium-directories-lowercase.txt -u https://10.X.X.X/FUZZ -t 100 --hc 404
+
