@@ -21,7 +21,7 @@ $ reset
 $ export SHELL=bash
 $ export TERM=xterm-256color
 ```
-
+##      https://payatu.com/blog/a-guide-to-linux-privilege-escalation/#1_Kernel_Exploits
 ## Start with the basics
 
 Who am i and what groups do I belong to?  
